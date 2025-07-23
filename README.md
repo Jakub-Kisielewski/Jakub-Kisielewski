@@ -1,16 +1,14 @@
-## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F79A42&width=435&lines=Hey%2C+I'm+Jakub+%F0%9F%91%8B)](https://git.io/typing-svg)
-<!--
-**Jakub-Kisielewski/Jakub-Kisielewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+Computer Science @ University of Warwick 🎓
+Passionate about building and maintaining software that improves quality of life
+```
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"/>
+  
+</p>
+
+---
