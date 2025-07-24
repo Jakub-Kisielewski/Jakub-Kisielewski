@@ -27,4 +27,12 @@ Passionate about building and maintaining software that improves quality of life
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="40" />        
 </p>
+
 ---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardodp&layout=compact&langs_count=4&exclude_repo=Edge-Detection,Console-Pokemon,P-NG,warwickplus,FRC1884-2023&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardodp&theme=tokyonight" width="47%" />
+</p>
+
