@@ -32,7 +32,7 @@ Passionate about building and maintaining software that improves quality of life
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Kisielewski&layout=compact,FRC1884-2023&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Kisielewski&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakub-Kisielewski&theme=tokyonight" width="47%" />
 </p>
 
