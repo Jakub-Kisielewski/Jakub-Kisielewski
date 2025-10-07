@@ -20,7 +20,13 @@ Passionate about building and maintaining software that improves quality of life
     <img src="https://github.com/Jakub-Kisielewski/texteditor/raw/main/editor.png" alt"text editor image" />
   </a>
 </p>
+
+<p align="center">
+  <strong><a href="https://github.com/Jakub-Kisielwwski/texteditor">text editor</a></strong> — a lightweight, terminal based text editor written entirely in C
+</p>
+
 ---
+
 ### Languages
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
