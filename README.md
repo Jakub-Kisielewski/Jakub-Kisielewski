@@ -17,7 +17,7 @@ Passionate about building and maintaining software that improves quality of life
 ### Recent project
 <p align="center">
   <a href="https://github.com/Jakub-Kisielewski/texteditor">
-    <img src="https://github.com/" alt"text editor image" />
+    <img src="https://github.com/Jakub-Kisielewski/texteditor/raw/main/editor.png" alt"text editor image" />
   </a>
 </p>
 ---
